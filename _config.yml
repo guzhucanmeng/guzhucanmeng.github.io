@@ -4,26 +4,26 @@ SEOTitle: 孤烛残梦的博客
 header-img: img/post-bg-index.jpg
 email: 1169621270@qq.com
 description: "Every failure is leading towards success."
-keyword: "王志彪的博客, Will Wang, 王志彪, Java"
-url: "https://flyingwzb.github.io/"          # your host, for absolute URL
+keyword: "孤烛残梦的博客, guzhucanmeng, 孤烛残梦, Java"
+url: "https://guzhucanmeng.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/flyingwzb/flyingwzb.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "但行好事，莫问前程。"
+sidebar-about-description: "心中无女人，代码自然神。"
 sidebar-avatar: /img/will-wang.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
-weibo_username:     wzb1994
-zhihu_username:     zongguanxian
-github_username:    flyingwzb
-# facebook_username:  username
+weibo_username:     孤烛残梦
+zhihu_username:     无
+github_username:    guzhucanmeng
+# facebook_username:  guzhucanmeng
 # jianshu_username:   jianshu_id
-twitter_username:   wzbcode
+twitter_username:   孤烛残梦
 
 
 # Build settings
