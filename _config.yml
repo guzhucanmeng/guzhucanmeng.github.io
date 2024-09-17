@@ -91,7 +91,7 @@ service-worker: true
 
 # Friends
 friends: [
-{title: "逐日计划",href: "http://kindle.archiew.top/"},
+{title: "逐日计划",href: "https://knowledge-planet.github.io/"},
 {title: "孤烛残梦第二博客",href: "http://tywa.publicvm.com"},
 {title: "孤烛残梦恋爱版",href: "https://tjq520mqh.zizi.us.kg"},
 {title: "腾讯",href: "https://www.tencent.com/zh-cn/index.html"},
