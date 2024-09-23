@@ -2,7 +2,13 @@
 layout: page
 description: "心中无女人，代码自然神。"
 ---
-
+<head>
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+ <meta http-equiv="Pragma" content="no-cache" />
+ <meta http-equiv="Expires" content="0" />
+<link rel="stylesheet" href="css/home.css?v=1.0.3">
+ <script src="js/home.js?v=1.0.3"></script>
+</head>
 {% for post in paginator.posts %}
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
