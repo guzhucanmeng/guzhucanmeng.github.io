@@ -1,15 +1,3 @@
-
----
-layout:     post
-title:      I always be with you
-subtitle:   励志篇
-date:       2024-9-23
-author:     guzhucanmeng
-header-img: img/post-bg-article.jpg
-catalog: true
-tags:
-    - 励志
---- 
 ---
 layout:     post
 title:      I always be with you
