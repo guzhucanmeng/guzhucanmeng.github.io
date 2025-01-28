@@ -1,6 +1,6 @@
 # Site settings
 title: 孤烛残梦's Blog
-SEOTitle: 孤烛残梦的博客
+SEOTitle: 孤烛残梦的博客,孤烛残梦,抚顺十中,博客,guzhucanmeng
 header-img: img/Image_1722004648631.jpg
 email: 1169621270@qq.com
 description: "Every failure is leading towards success."
@@ -93,8 +93,8 @@ service-worker: true
 friends: [
 {title: "逐日计划",href: "https://knowledge-planet.github.io/"},
 {title: "孤烛残梦引导页",href: "http://jovehello.serv00.net"},
-{title: "罪影官网",href: "https://crimeshadow.linkpc.net"},
-{title: "十中排行榜",href: "https://guzhucanmeng.github.io/fsszz"},
+{title: "罪影官网",href: "https://guzhucanmeng.github.io/jbsg"},
+{title: "十中排行榜",href: "https://guzhucanmeng.github.io/fssz"},
 {title: "隐星组织",href: "https://hiddenstar.mysxl.cn"},
 {title: "天域网安论坛",href: "http://tianyuwangan.free.mbbs.cc"},
 ]
